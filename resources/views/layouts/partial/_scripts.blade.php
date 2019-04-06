@@ -1,0 +1,23 @@
+<script src="{{asset('bower/moment/moment.js')}}"></script>
+<script src="{{asset('bower/simplycountdown/dist/simplyCountdown.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/jquery/dist/jquery.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/popper.js/dist/umd/popper.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/bootstrap/dist/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/jquery.scrollbar/jquery.scrollbar.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/jquery-scrollLock/jquery-scrollLock.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/fullcalendar/dist/fullcalendar.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/jquery-mask-plugin/dist/jquery.mask.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/select2/dist/js/select2.full.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/dropzone/dist/min/dropzone.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/moment/min/moment.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/nouislider/distribute/nouislider.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/trumbowyg/dist/trumbowyg.min.js')}}"></script>
+<script src="{{asset('vendors/flatpickr/flatpickr.min.js')}}"></script>
+<script src="{{asset('vendors/summernote/summernote-bs4.min.js')}}"></script>
+<script src="{{asset('vendors/bower_components/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js')}}"></script>
+<script src="{{asset('bower/sweetalert2/dist/sweetalert2.min.js')}}"></script>
+<script src="{{asset('vendors/simple_bar/dist/simplebar.js')}}"></script>
+<script src="{{asset('js/jquery.blockUI.js')}}"></script>
+<!-- App functions and actions -->
+<script src="{{asset('js/app.min.js')}}"></script>
